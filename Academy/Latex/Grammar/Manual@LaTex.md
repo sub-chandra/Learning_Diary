@@ -20,21 +20,26 @@ CreateTime: 2022
 
 文档类型：
 英文：
-$\qquad\bullet$ article$\qquad\qquad\qquad\bullet$ report$\qquad\qquad\qquad\bullet$ book
-$\qquad\bullet$ proc$\qquad\qquad\qquad\quad\bullet$slides$\qquad\qquad\qquad\ \ \bullet$minimal
+| Classic | External |  
+| ------- | -------- | 
+| article | proc     | 
+| report  | slides   | 
+| book    | minimal  | 
+
+
 中文：
-$\qquad\bullet$ ctexart
-$\qquad\bullet$ ctexrep
-$\qquad\bullet$ ctexbook
+-  `ctexart`
+- `ctexrep`
+- `ctexbook`
 
 ### 1.1.2. <font color="gray">&lt;options&gt;</font>
 
 Basic Option：
-$\qquad\bullet$ 10pt
-$\qquad\bullet$ a4paper
-$\qquad\bullet$ onecolumn, twocolumn
-$\qquad\bullet$ landscape
-$\qquad\bullet$ titlepage
+- `10pt`
+- `a4paper`
+- `onecolumn`,  `twocolumn`
+- `landscape`
+- `titlepage`
 
 `More`  📄:6 
 
