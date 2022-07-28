@@ -9,3 +9,6 @@ The place sharing learning diary
 [Git Leaning](CS/Git/Manual@Git.md)
 
 ### Linux
+
+### Latex
+[Latex Leanring Diary](Academy/Latex/Grammar/Manual@LaTex.md)
