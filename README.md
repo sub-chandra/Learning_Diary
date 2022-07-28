@@ -2,6 +2,7 @@
 
 The place sharing learning diary
 >Tips: Each pages have `yaml` ahead.
+>
 >More: The file editor by `Obsidian` with some extension, which means some contents are invisible.
 
  It may about language learning, such as `python`,  `cpp`,  `php`, and technology, such as how to use `Windows`, `git` .
