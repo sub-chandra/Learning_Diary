@@ -10,3 +10,5 @@
 /.bat
 /.obsidian
 **/Temporary.md
+!/Academy/Latex/Grammar
+
