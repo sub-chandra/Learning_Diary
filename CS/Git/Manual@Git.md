@@ -213,3 +213,10 @@ git push 远程仓库名 远程分支名 --force
 [Git-提交时On branch master Your branch is up to date with_涎涎的博客-CSDN博客](https://blog.csdn.net/qq_36079972/article/details/100279562)
 [git push origin和git push -u origin master的区别是什么 - 大数据 - 亿速云](https://www.yisu.com/zixun/594033.html)
 
+
+
+[git删除第一个commit_CHAOS_ORDER的博客-CSDN博客_git删除第一次commit](https://blog.csdn.net/CHAOS_ORDER/article/details/122655480)
+
+
+git rm -r --cache .
+git update-ref -d HEAD

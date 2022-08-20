@@ -14,4 +14,10 @@ The place sharing learning diary
 ### Linux
 
 ### Latex
-[Latex Leanring Diary](Academy/Latex/Grammar/Manual@LaTex.md)
+[Latex Learning Diary](Academy/Latex/Grammar/Manual@LaTex.md)
+
+### Obsidian Manual
+Description: Manual for using `Obsidian` and Extension.
+[Obsidian Manual](ObsidianManual/Obsidian_Using_Guida.md)
+
+
