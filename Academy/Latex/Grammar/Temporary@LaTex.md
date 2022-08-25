@@ -1,6 +1,6 @@
 ---
-file_type: # Manual
-file_catalogue:
+file_type: Temporary # Manual
+file_catalogue: Latex
 CreateTime: 2022
 ---
 

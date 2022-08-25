@@ -1,14 +1,18 @@
 ---
-file_type: Manual # Manual
-file_catalogue: LaTeX
+file_type: "Manual"
+file_catalogue: "Code Language"
+Catalogue: 
+  Main: LaTeX
+  Secondary: Grammar
 CreateTime: 2022
 ---
 
-#Missing 
-> The file of the $\LaTeX$   can be divided to two part:
-> 		1. Preamble
-> 		2. Content
-> 		3. Function
+#Template/Knowledge/Manual/Main_Basic  
+>[!INFO] Introduction
+The file of the $\LaTeX$   can be divided to two part:
+>1. Preamble
+>2. Content
+>3. Function
 > 		
 > <mark style="background: #ADCCFFA6;">The Reference is: 一份（不太）简短的LaTex介绍</mark> --Using'📄' indicate the page of the file.
 
@@ -19,7 +23,7 @@ CreateTime: 2022
 ### 1.1.1. <font color="gray">&lt;class-name&gt;</font>
 
 文档类型：
-英文：
+- 英文：
 | Classic | External |  
 | ------- | -------- | 
 | article | proc     | 
