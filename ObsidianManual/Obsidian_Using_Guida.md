@@ -56,7 +56,7 @@ Using `>[!NOTE]Tittle//Content` to create a `callout block`  OR hotkey `Ctrl+A`
 #### 2.1.1.3. Link
 - Page Link
 	Using `[[]]` to mention a page (Wiki Style)  P.S. You can also 
-	**e.g [[Linux Learning Diary]]
+	**e.g [[Manual@Linux]]
 - Out URL
 	Using `[]()` to link the `url` (Markdown Style)
 	**e.g.** 

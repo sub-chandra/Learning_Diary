@@ -1,3 +1,17 @@
+---
+file_type: "Manual" 
+file_catalogue: "Computer Science" 
+Catalogue: 
+  Main: "Linux"
+  Secondary: "Grammar"
+CreateTime: 2022
+---
+
+#Template/Knowledge/Manual/Main_Basic  
+#Linux
+>[!INFO] Introduction
+>This page introduces the usage of the `Linux`
+
 
 ## Swap
 > Swapping is the process whereby a page of memory is copied to the pre-configured space on the hard disk, called swap space, to free up that page of memory.

@@ -1,4 +1,12 @@
->This page is a catalogue for the serve running on Tencent Lighthouse 
+---
+file_type: "Note" 
+file_catalogue: "Cloud Software" # Code Language, Extension, Coding env, Software, Hardware, Cloud Software
+CreateTime: 2022
+---
+
+>[!INFO] Introduction
+>This page is a catalogue for the serve running on `Tencent Lighthouse` 
+# Deployed Server
 1. [Blog](www.chandresekharlu.site) 
 2. [Jupyter Notebook](py.chandrasekharlu.site)
 3. [Linux Panel](panel.chandrasekharlu.site)
@@ -6,8 +14,7 @@
 5. [Cloudreve](cloud.chandrasekharlu.site)
 
 
-> Some awesome software 
-
+# Awesome Software 
 1. [Easypicker](https://blog.csdn.net/zhCSDA/article/details/122827861)
 	[Github program](https://github.com/ATQQ/easypicker2-client)
 	==demo== [EasyPicker-轻取 文件提交](https://ep2.sugarat.top/task/627bd3b18a567f1b47bcdace)

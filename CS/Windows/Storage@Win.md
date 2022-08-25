@@ -1,6 +1,6 @@
 ---
-file_type: Manual# Manual
-file_catalogue: Technology
+file_type: Note # Manual
+file_catalogue: {"Windows", "System", "Storage"}
 CreateTime: 2022
 ---
 

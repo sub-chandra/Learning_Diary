@@ -1,3 +1,13 @@
+---
+file_type: HomePage 
+file_catalogue: {"IDE", "VSCode"}
+CreateTime: 2022
+---
+
+#IDE
+>[!INFO] Introduction 
+>This page is the guide for using `VSCode`(HomePage)
+
 # 1. Markdown
 ## 1.1. Extension
 

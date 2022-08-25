@@ -1,11 +1,15 @@
 ---
-file_type: Manual # Manual
-file_catalogue: CS
+file_type: "Manual" 
+file_catalogue: "Computer Science" # Code Language, Extension, Coding env, Software, Hardware, Cloud Software
+Catalogue: 
+  Main: "System"
+  Secondary: "Git"
 CreateTime: 2022
 ---
 
-#Missing 
-
+#Template/Knowledge/Manual/Main_Basic  
+>[!INFO] Introduction
+>This page is the manual of the `Git`
 # Install
 ## Windows
 Download Package: [Official](https://gitforwindows.org/)   or [Mirror](https://npm.taobao.org/mirrors/git-for-windows/)。

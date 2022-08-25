@@ -1,4 +1,18 @@
-#Missing 
+---
+file_type: "Manual" 
+file_catalogue: "Cloud Software" 
+Catalogue: 
+  Main: "Editor"
+  # Software:  Latex, Obsidian 
+  # Hardware:  Mobile Phone, 
+  Secondary: "Editor.md"
+  # Usage: Grammar
+CreateTime: 2022
+---
+
+#Template/Knowledge/Manual/Main_Basic  
+>[!INFO] Introduction
+>This page is the manual of the markdown editor `Editor.md`
 
 [editormd使用教程 - 先修客 - 博客园 (cnblogs.com)](https://www.cnblogs.com/liujiaxian/p/6336841.html)
 [Editor.md examples (pandao.github.io)](https://pandao.github.io/editor.md/examples/index.html)

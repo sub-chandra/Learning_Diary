@@ -1,4 +1,16 @@
-#Missing 
+---
+file_type: "Record_Manual" 
+file_catalogue: "Awesome" 
+Catalogue: 
+  Main: "Python"
+  Secondary: "LinkRecord"
+CreateTime: 2022
+---
+
+#Template/Knowledge/Manual/Record_Basic  
+>[!INFO] Introduction
+>This page records some methods to use `Python`
+
 
 ```python
 from rembg import remove

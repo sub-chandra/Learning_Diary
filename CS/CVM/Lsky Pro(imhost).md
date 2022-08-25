@@ -1,4 +1,18 @@
- >This page is something about the Lsky Pro (A imhost Serve)
+---
+file_type: "Manual" 
+file_catalogue: "Cloud Software" 
+Catalogue: 
+  Main: "imhost"
+  # Software:  Latex, Obsidian 
+  # Hardware:  Mobile Phone, 
+  Secondary: "Lsky Pro"
+  # Usage: Grammar
+CreateTime: 2022
+---
+
+#Template/Knowledge/Manual/Main_Basic  
+>[!INFO] Introduction
+>This page is something about the `Lsky Pro` (A imhost Serve)
 
 ## File
 -  afooter setting file

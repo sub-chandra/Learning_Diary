@@ -1,5 +1,11 @@
-#Missing 
+---
+file_type: "Temporary"
+file_catalogue: {"Windows", "System"}
+CreateTime: 2022
+---
 
+#Temporary
+包管理：chocolatey
 Insert Unicode: `VUC*`
 删除未知进程：[Fetching Title#96y4](https://blog.csdn.net/m0_46665077/article/details/124838391)
 [Fetching Title#f3vi](https://blog.csdn.net/qq_29761395/article/details/106173996)
