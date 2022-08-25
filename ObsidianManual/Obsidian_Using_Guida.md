@@ -1,10 +1,17 @@
-```yaml
 ---
-T: All the time.
-length: 2000h
-rating: 9.5
+file_type: "Manual" 
+file_catalogue: "Software"
+Catalogue: 
+  Main: "Obsidian"
+  Secondary: "Grammar"
+CreateTime: 2022
 ---
-```
+
+#Template/Knowledge/Manual/Main_Basic  
+>[!INFO] Introduction
+>This page is the manual and tutorial of the `Obsidian`
+
+
 # 1. Problem
 1. Can't use `\label` in math block
 2. html image problem[Fetching Title#qf10](https://forum-zh.obsidian.md/t/topic/8035/6)
@@ -19,16 +26,34 @@ rating: 9.5
 
 ## 2.1. In-Page  Tool
 ### 2.1.1. Basic
-- Quote
+#### 2.1.1.1. Quote
 	Using `>` to create a quote, just like the header.
-- Callout
-	Using `>[!NOTE]Tittle//Content` to create a `callout block`  OR hotkey `Ctrl+A`
-	**e.g:** 
-> [!NOTE] Title
-> Contents
+#### 2.1.1.2. Callout
+Using `>[!NOTE]Tittle//Content` to create a `callout block`  OR hotkey `Ctrl+A`
+##### 2.1.1.2.1. Example
+
+> [!INFO] Tittle
+> Content
 
 
-#### 2.1.1.1. Link
+
+
+##### 2.1.1.2.2. Parameter
+-   note
+-   abstract, summary, tldr
+-   info, todo
+-   tip, hint, important
+-   success, check, done
+-   question, help, faq
+-   warning, caution, attention
+-   failure, fail, missing
+-   danger, error
+-   bug
+-   example
+-   quote, cite
+
+
+#### 2.1.1.3. Link
 - Page Link
 	Using `[[]]` to mention a page (Wiki Style)  P.S. You can also 
 	**e.g [[Linux Learning Diary]]
